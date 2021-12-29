@@ -1,2 +1,2 @@
-# Version 2
-#B
+# Version 2 for file B
+# Added change for test on Github
